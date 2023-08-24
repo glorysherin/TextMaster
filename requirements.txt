@@ -2,3 +2,4 @@ django==4.0.1
 transformers==4.30.2
 language_tool_python==2.7.1
 spellchecker
+indexer
